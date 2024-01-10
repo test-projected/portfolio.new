@@ -63,7 +63,7 @@ const Project = () => {
 										</a>
 									</div>
 									<div className='btn-backhome'>
-										<a>Go home.</a>
+										<a href='/'>Go home.</a>
 									</div>
 								</div>
 							</div>
